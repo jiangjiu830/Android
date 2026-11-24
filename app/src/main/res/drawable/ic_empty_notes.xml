@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 空列表插画：一张纸 + 几行文字 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <path
+        android:fillColor="@color/md_surface_variant"
+        android:pathData="M22,10h38l16,16v60a8,8 0 0 1,-8 8H22a8,8 0 0 1,-8 -8V18a8,8 0 0 1,8 -8z" />
+    <path
+        android:fillColor="@color/md_outline_variant"
+        android:pathData="M60,10l16,16H60z" />
+    <path
+        android:fillColor="@color/md_primary"
+        android:pathData="M26,32h28v5H26z" />
+    <path
+        android:fillColor="@color/md_outline"
+        android:pathData="M26,46h44v5H26zM26,58h44v5H26zM26,70h26v5H26z" />
+</vector>

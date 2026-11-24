@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">记事本</string>
+
+    <!-- 笔记列表 -->
+    <string name="search_hint">搜索标题或内容</string>
+    <string name="action_search">搜索</string>
+    <string name="action_sort">排序方式</string>
+    <string name="action_trash">回收站</string>
+    <string name="action_backup">备份与恢复</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    <string name="action_new_note">新建笔记</string>
+
+    <string name="category_all">全部</string>
+    <string name="category_default">默认</string>
+    <string name="category_work">工作</string>
+    <string name="category_life">生活</string>
+    <string name="category_study">学习</string>
+    <string name="category_idea">灵感</string>
+
+    <!-- 标签管理 -->
+    <string name="action_tags">标签管理</string>
+    <string name="tags_title">标签管理</string>
+    <string name="tag_add">新建标签</string>
+    <string name="tag_add_title">新建标签</string>
+    <string name="tag_rename_title">重命名标签</string>
+    <string name="tag_rename">重命名</string>
+    <string name="tag_delete">删除</string>
+    <string name="tag_name_hint">标签名称</string>
+    <string name="tag_name_empty">标签名称不能为空</string>
+    <string name="tag_name_duplicate">已存在同名标签</string>
+    <string name="tag_name_too_long">标签名称最多 16 个字符</string>
+    <string name="tag_added">已新建标签</string>
+    <string name="tag_renamed">已重命名标签</string>
+    <string name="tag_deleted">已删除标签</string>
+    <string name="tag_delete_default">默认标签不能删除</string>
+    <string name="tag_delete_title">删除标签？</string>
+    <string name="tag_delete_confirm">确定删除标签「%1$s」吗？</string>
+    <string name="tag_delete_confirm_in_use">「%1$s」下还有 %2$d 条笔记，删除后这些笔记会归入默认标签。</string>
+    <string name="tag_manage_hint">在这里新增、重命名或删除标签</string>
+
+    <string name="sort_modified">修改时间</string>
+    <string name="sort_created">创建时间</string>
+    <string name="sort_title">标题</string>
+    <string name="sort_dialog_title">排序方式</string>
+
+    <string name="note_untitled">无标题</string>
+    <string name="pin_badge">置顶</string>
+    <string name="list_subtitle">共 %1$d 条笔记</string>
+    <string name="list_subtitle_filtered">筛选出 %1$d 条</string>
+    <string name="list_subtitle_search">搜索到 %1$d 条</string>
+
+    <string name="empty_title">还没有笔记</string>
+    <string name="empty_desc">点击右下角的按钮\n记录第一条想法吧</string>
+    <string name="empty_search_title">没有找到相关笔记</string>
+    <string name="empty_search_desc">换一个关键词或分类试试</string>
+    <string name="empty_trash_title">回收站是空的</string>
+    <string name="empty_trash_desc">删除的笔记会先放在这里\n随时可以恢复</string>
+
+    <string name="note_menu_pin">置顶</string>
+    <string name="note_menu_unpin">取消置顶</string>
+    <string name="note_menu_delete">移入回收站</string>
+    <string name="note_menu_share">分享</string>
+
+    <string name="toast_pinned">已置顶</string>
+    <string name="toast_unpinned">已取消置顶</string>
+    <string name="toast_moved_to_trash">已移入回收站</string>
+    <string name="toast_restored">已恢复笔记</string>
+    <string name="toast_deleted">已彻底删除</string>
+    <string name="toast_trash_cleared">回收站已清空</string>
+    <string name="undo">撤销</string>
+
+    <!-- 编辑器 -->
+    <string name="editor_new_title">新建笔记</string>
+    <string name="editor_edit_title">编辑笔记</string>
+    <string name="hint_title">标题</string>
+    <string name="hint_content">开始记录…</string>
+    <string name="label_category">标签</string>
+    <string name="action_save">保存</string>
+    <string name="action_share">分享</string>
+    <string name="action_delete">删除</string>
+    <string name="toast_saved">已保存</string>
+    <string name="toast_save_failed">保存失败</string>
+    <string name="toast_nothing_to_share">没有可以分享的内容</string>
+    <string name="toast_nothing_to_save">没有需要保存的内容</string>
+    <string name="editor_meta">创建于 %1$s　·　修改于 %2$s</string>
+    <string name="editor_word_count">共 %1$d 字</string>
+    <string name="delete_confirm_title">移入回收站？</string>
+    <string name="delete_confirm_message">笔记会先放进回收站，可以随时恢复。</string>
+    <string name="delete_confirm_ok">移入回收站</string>
+    <string name="cancel">取消</string>
+    <string name="dialog_ok">确定</string>
+    <string name="share_chooser">分享笔记</string>
+    <string name="share_subject">分享笔记：%1$s</string>
+
+    <!-- 回收站 -->
+    <string name="trash_title">回收站</string>
+    <string name="action_restore">恢复</string>
+    <string name="action_delete_forever">彻底删除</string>
+    <string name="action_clear_trash">清空回收站</string>
+    <string name="clear_trash_confirm">清空后这些笔记将无法恢复，确定继续吗？</string>
+    <string name="delete_forever_confirm">彻底删除后无法恢复，确定继续吗？</string>
+    <string name="deleted_at">删除于 %1$s</string>
+
+    <!-- 设置 -->
+    <string name="settings_title">设置</string>
+    <string name="settings_theme">主题</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="settings_sort">默认排序方式</string>
+    <string name="settings_preview">显示内容摘要</string>
+    <string name="settings_preview_desc">在列表中展示笔记正文的前两行</string>
+    <string name="settings_font">正文字号</string>
+    <string name="settings_font_value">%1$d sp</string>
+    <string name="settings_about_desc">版本 %1$s　·　移动软件开发期中实验</string>
+
+    <!-- 备份与恢复 -->
+    <string name="backup_dialog_title">备份与恢复</string>
+    <string name="backup_export">备份全部笔记（.json）</string>
+    <string name="backup_import">从备份文件恢复</string>
+    <string name="backup_success">已备份 %1$d 条笔记</string>
+    <string name="backup_failed">备份失败，请检查存储权限或文件位置</string>
+    <string name="import_success">已导入 %1$d 条笔记</string>
+    <string name="import_failed">恢复失败，请确认文件是本应用导出的备份</string>
+    <string name="backup_file_name">记事本备份-%1$s.json</string>
+
+    <!-- 关于 -->
+    <string name="about_title">关于记事本</string>
+    <string name="about_message">版本 %1$s\n\n【基本要求】\n· 笔记列表显示时间戳（今天 / 昨天 / 日期）\n· 按标题或内容实时搜索\n\n【扩展功能】\n· 笔记标签：可新增、重命名、删除标签，并按标签筛选\n· 置顶笔记，支持按修改时间、创建时间、标题排序\n· 回收站：软删除与一键恢复\n· 备份与恢复：导出 / 导入 JSON 备份（含标签）\n· 深色主题、正文字号等偏好设置\n\n数据保存在本地 SQLite 数据库，通过 ContentProvider 访问。</string>
+</resources>

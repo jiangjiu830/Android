@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== Material 3 配色（浅色 / 纸墨风格） ===== -->
+    <color name="md_primary">#3A6B57</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#BCEBD4</color>
+    <color name="md_on_primary_container">#002014</color>
+
+    <color name="md_secondary">#4D6358</color>
+    <color name="md_on_secondary">#FFFFFF</color>
+    <color name="md_secondary_container">#D0E8DA</color>
+    <color name="md_on_secondary_container">#0A1F16</color>
+
+    <color name="md_tertiary">#3F6373</color>
+    <color name="md_on_tertiary">#FFFFFF</color>
+    <color name="md_tertiary_container">#C2E8F9</color>
+    <color name="md_on_tertiary_container">#001F2A</color>
+
+    <color name="md_background">#FAFDF8</color>
+    <color name="md_on_background">#191C1A</color>
+    <color name="md_surface">#FAFDF8</color>
+    <color name="md_on_surface">#191C1A</color>
+    <color name="md_surface_variant">#DCE5DD</color>
+    <color name="md_on_surface_variant">#414942</color>
+
+    <color name="md_surface_container_lowest">#FFFFFF</color>
+    <color name="md_surface_container_low">#F4F8F3</color>
+    <color name="md_surface_container">#EEF2ED</color>
+    <color name="md_surface_container_high">#E8ECE7</color>
+    <color name="md_surface_container_highest">#E2E7E1</color>
+
+    <color name="md_outline">#717972</color>
+    <color name="md_outline_variant">#C0C9C1</color>
+
+    <color name="md_error">#BA1A1A</color>
+    <color name="md_on_error">#FFFFFF</color>
+    <color name="md_error_container">#FFDAD6</color>
+    <color name="md_on_error_container">#410002</color>
+
+    <!-- 启动图标背景 -->
+    <color name="ic_launcher_background">#2F5D50</color>
+
+    <!-- ===== 笔记分类颜色 ===== -->
+    <color name="category_default">#7A8794</color>
+    <color name="category_work">#3D7EFF</color>
+    <color name="category_life">#E2724B</color>
+    <color name="category_study">#2F9E6E</color>
+    <color name="category_idea">#B05CA8</color>
+
+    <!-- ===== 自定义标签调色板（新建标签时按顺序取色） ===== -->
+    <color name="tag_color_1">#3D7EFF</color>
+    <color name="tag_color_2">#E2724B</color>
+    <color name="tag_color_3">#2F9E6E</color>
+    <color name="tag_color_4">#B05CA8</color>
+    <color name="tag_color_5">#2C8C99</color>
+    <color name="tag_color_6">#B07D2B</color>
+    <color name="tag_color_7">#5B6BC0</color>
+    <color name="tag_color_8">#C2557A</color>
+</resources>

@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+.idea/
+.DS_Store
+local.properties
+
+# 构建产物
+build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# 演示时推送的临时文件
+*.db-journal
